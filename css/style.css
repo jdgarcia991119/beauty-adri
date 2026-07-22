@@ -2043,7 +2043,22 @@ footer {
 
 .foot-copy {
     font-size: 0.7rem;
-    color: rgba(255, 255, 255, 0.22);
+    color: rgba(255, 255, 255, 0.39);
+}
+
+.foot-copy a{
+    font-size: 0.7rem;
+    color: #c8938a;
+}
+
+.foot-copy a:focus{
+    font-size: 0.7rem;
+    color: #c8938a;
+}
+
+.foot-copy a:hover{
+    font-size: 0.7rem;
+    color: #d1b0aa;
 }
 
 .foot-socials {
